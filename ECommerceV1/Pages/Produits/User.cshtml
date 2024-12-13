@@ -1,0 +1,132 @@
+﻿@page "{searchString?}"
+@model ECommerceV1.Pages.Produits.UserModel
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+
+    <link rel="stylesheet" href="~/css/mystyle.css">
+    <link rel="stylesheet" href="~/css/Slide.css">
+</head>
+
+<body>
+    <!-- Slider Section -->
+    <div class="slider">
+        <figure>
+            <div class="slide">
+                <h1>Gambar Satu</h1>
+
+
+
+                <img src="@Url.Content("~/Images/Slide/t1.png")" width="100" />
+
+
+            </div>
+            <div class="slide">
+                <h1></h1>
+                <img src="@Url.Content("~/Images/Slide/t2.jpg")" width="100" />
+            </div>
+            <div class="slide">
+                <h1></h1>
+                <img src="@Url.Content("~/Images/Slide/t3.jpg")" width="100" />
+            </div>
+            <div class="slide">
+                <h1></h1>
+                <img src="@Url.Content("~/Images/Slide/t2.jpg")" width="100" />
+            </div>
+        </figure>
+    </div>
+
+    <!-- Products Section -->
+    <div class="container">
+        <div class="row row-2">
+            <h2>All Products</h2>
+            <form method="get">
+                <div class="form-group">
+                    <label asp-for="CategorieId" class="control-label">Category</label>
+                    <select asp-for="CategorieId" asp-items="Model.Categories" class="form-control">
+                        <option value="">All</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Title: <input type="text" asp-for="SearchString" class="form-control" /></label>
+                </div>
+                <input type="submit" value="Filter" class="btn btn-primary filter-button" />
+            </form>
+        </div>
+
+        <div class="row">
+            @foreach (var item in Model.Produit)
+            {
+                <div class="col-4 product-card">
+                    <img src="@Url.Content($"~/{item.ImageUrl}")" alt="Product Image" class="product-image" />
+                    <h4 class="product-name">@Html.DisplayFor(modelItem => item.Nom)</h4>
+                    <p class="product-price">@Html.DisplayFor(modelItem => item.Prix) DH</p>
+
+                    <!-- Add to Cart Form -->
+                    <form method="post" asp-page-handler="AddToCart">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <label for="quantity-@item.Id">Quantity:</label>
+                        <input type="number" name="quantity" id="quantity-@item.Id" value="1" min="1" max="@item.QuantiteStock" class="form-control quantity-input" />
+                        <input type="submit" value="Add to Cart" class="btn btn-primary" />
+                    </form>
+                </div>
+            }
+        </div>
+
+
+        <style>
+            .row {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 20px; /* Adds space between the cards */
+            }
+
+            .product-card {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: space-between;
+                padding: 15px;
+                background-color: #f9f9f9;
+                border: 1px solid #ddd;
+                border-radius: 8px;
+                text-align: center;
+                margin-bottom: 20px;
+                width: 100%; /* Adjust based on screen size */
+                max-width: 300px; /* Controls the card width */
+                height: 400px; /* Sets a fixed height to align cards */
+            }
+
+            .product-image {
+                width: 100%;
+                height: 200px;
+                object-fit: cover;
+                border-radius: 8px;
+                margin-bottom: 10px;
+            }
+
+            .product-name, .product-price {
+                margin: 0;
+            }
+
+            .btn-primary {
+                margin-top: auto;
+            }
+
+            .filter-button {
+                width: 150px; /* Set the width to your desired value */
+            }
+
+
+        </style>
+
+</body>
+</html>

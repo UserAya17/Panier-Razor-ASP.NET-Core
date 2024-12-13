@@ -1,0 +1,1338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\user.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\user.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\css\\slide.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\css\\slide.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Migrations\\20241029062345_initial creatte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerceV1\\Migrations\\20241029062345_initial creatte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\122.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\122.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\46b9ba06-8a13-4871-9016-f28f7a4c5e0b.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\46b9ba06-8a13-4871-9016-f28f7a4c5e0b.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\b4.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\b4.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\bba08759-d216-4e31-8d02-b35eefc6bd85.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\bba08759-d216-4e31-8d02-b35eefc6bd85.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\bf1cbcf3-f491-468c-a7b1-3ce112c1f99f.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\bf1cbcf3-f491-468c-a7b1-3ce112c1f99f.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\c01bd4fa-5f50-4351-8c7c-74de3b24afc4.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\c01bd4fa-5f50-4351-8c7c-74de3b24afc4.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\cf94b160-70bd-4fd5-85b7-56d39386fdc0.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\cf94b160-70bd-4fd5-85b7-56d39386fdc0.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\ed34fe8c-5f0f-41cd-8dc9-001f10a67e03.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\ed34fe8c-5f0f-41cd-8dc9-001f10a67e03.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\fd763769-2448-4303-bea7-7617221cf9d8.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\fd763769-2448-4303-bea7-7617221cf9d8.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\picture12.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\picture12.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\cb583d10-3b31-420a-bda9-4b1b06ae13d7.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\cb583d10-3b31-420a-bda9-4b1b06ae13d7.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\a46e3824-30b5-4de2-851d-2fc74aa7155e.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\a46e3824-30b5-4de2-851d-2fc74aa7155e.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\87649850-f467-488f-9339-c17d22e90415.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\87649850-f467-488f-9339-c17d22e90415.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\6236b334-fa23-4d40-b9e9-5ca1e1314a90.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\6236b334-fa23-4d40-b9e9-5ca1e1314a90.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\99462b88-ebad-4043-9679-d71c54c8e7e5.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\99462b88-ebad-4043-9679-d71c54c8e7e5.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\wwwroot\\images\\produits\\9ab1f521-8de1-4f77-87c8-a8b7beeeb388.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\wwwroot\\images\\produits\\9ab1f521-8de1-4f77-87c8-a8b7beeeb388.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\Migrations\\20241022065122_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\paiement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\paiement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\categories\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\categories\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\data\\ecommercev1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\data\\ecommercev1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\authentification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\authentification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\authentification.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\authentification.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\paiement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\paiement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\authentification\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\authentification\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\produits\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\produits\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|c:\\users\\dell\\desktop\\ecommercev1\\ecommercev1\\ecommercev1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20C446D-D98A-4AED-9FFE-6594EF3D3230}|ECommerceV1\\ECommerceV1.csproj|solutionrelative:ecommercev1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\Migrations\\20241008085327_InitialCreates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e78e0cf7-2e4e-48a7-bf7f-a94d9330a3be}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:45:04.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Index.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Index.cshtml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwGUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:26:42.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Cart.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Cart.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:20:08.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\User.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\User.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\User.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\User.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAACMvRsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T17:05:04.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Slide.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\css\\Slide.css",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\css\\Slide.css",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\css\\Slide.css",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\css\\Slide.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-19T17:24:17.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\User.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\User.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\User.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\User.cshtml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAjwFgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:10:31.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Cart.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Cart.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Cart.cshtml",
+              "ViewState": "AgIAABEAAAAA/v////8cwB4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T18:19:47.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAC4AAABA//////8nwC8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:50:59.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-29T07:35:21.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mystyle.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\css\\mystyle.css",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\css\\mystyle.css",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\css\\mystyle.css",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\css\\mystyle.css",
+              "ViewState": "AgIAANIBAAAAHDMzM3MvwNMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-22T08:46:35.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Index.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Index.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAE0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T08:44:39.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AgIAADoEAAAA1MzMzMwUwD0EAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T06:39:06.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Models\\Categorie.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Models\\Categorie.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Models\\Categorie.cs",
+              "RelativeToolTip": "ECommerceV1\\Models\\Categorie.cs",
+              "ViewState": "AgIAAAUAAAAgZmZmZmY0wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:35:21.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAABgMzMzM/MmwDQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T09:12:26.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Models\\CartItem.cs",
+              "RelativeToolTip": "ECommerceV1\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAIAAAAgMzMzMzMnwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:12:36.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Models\\Produit.cs",
+              "RelativeToolTip": "ECommerceV1\\Models\\Produit.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:36:30.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241029062345_initial creatte.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Migrations\\20241029062345_initial creatte.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Migrations\\20241029062345_initial creatte.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Migrations\\20241029062345_initial creatte.cs",
+              "RelativeToolTip": "ECommerceV1\\Migrations\\20241029062345_initial creatte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:23:45.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Program.cs",
+              "RelativeToolTip": "ECommerceV1\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:44:37.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceV1\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\appsettings.json",
+              "RelativeToolTip": "ECommerceV1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T08:52:07.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "46b9ba06-8a13-4871-9016-f28f7a4c5e0b.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\46b9ba06-8a13-4871-9016-f28f7a4c5e0b.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\46b9ba06-8a13-4871-9016-f28f7a4c5e0b.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\46b9ba06-8a13-4871-9016-f28f7a4c5e0b.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\46b9ba06-8a13-4871-9016-f28f7a4c5e0b.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T22:13:44.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "122.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\122.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\122.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\122.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\122.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T22:13:50.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Create.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Create.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T08:44:37.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "b4.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\b4.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\b4.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\b4.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\b4.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T07:54:12.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Models\\Login.cs",
+              "RelativeToolTip": "ECommerceV1\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:23:33.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Edit.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Edit.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAIBJwCIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:29:13.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "bf1cbcf3-f491-468c-a7b1-3ce112c1f99f.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\bf1cbcf3-f491-468c-a7b1-3ce112c1f99f.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\bf1cbcf3-f491-468c-a7b1-3ce112c1f99f.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\bf1cbcf3-f491-468c-a7b1-3ce112c1f99f.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\bf1cbcf3-f491-468c-a7b1-3ce112c1f99f.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T08:26:23.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-22T09:21:32.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "cf94b160-70bd-4fd5-85b7-56d39386fdc0.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\cf94b160-70bd-4fd5-85b7-56d39386fdc0.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\cf94b160-70bd-4fd5-85b7-56d39386fdc0.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\cf94b160-70bd-4fd5-85b7-56d39386fdc0.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\cf94b160-70bd-4fd5-85b7-56d39386fdc0.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T07:56:10.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "c01bd4fa-5f50-4351-8c7c-74de3b24afc4.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\c01bd4fa-5f50-4351-8c7c-74de3b24afc4.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\c01bd4fa-5f50-4351-8c7c-74de3b24afc4.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\c01bd4fa-5f50-4351-8c7c-74de3b24afc4.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\c01bd4fa-5f50-4351-8c7c-74de3b24afc4.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T08:26:17.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bba08759-d216-4e31-8d02-b35eefc6bd85.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\bba08759-d216-4e31-8d02-b35eefc6bd85.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\bba08759-d216-4e31-8d02-b35eefc6bd85.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\bba08759-d216-4e31-8d02-b35eefc6bd85.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\bba08759-d216-4e31-8d02-b35eefc6bd85.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T07:53:36.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ed34fe8c-5f0f-41cd-8dc9-001f10a67e03.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\ed34fe8c-5f0f-41cd-8dc9-001f10a67e03.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\ed34fe8c-5f0f-41cd-8dc9-001f10a67e03.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\ed34fe8c-5f0f-41cd-8dc9-001f10a67e03.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\ed34fe8c-5f0f-41cd-8dc9-001f10a67e03.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T07:56:07.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Picture12.jpg",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\Picture12.jpg",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\Picture12.jpg",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\Picture12.jpg",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\Picture12.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T07:56:02.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "fd763769-2448-4303-bea7-7617221cf9d8.jpg",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\fd763769-2448-4303-bea7-7617221cf9d8.jpg",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\fd763769-2448-4303-bea7-7617221cf9d8.jpg",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\fd763769-2448-4303-bea7-7617221cf9d8.jpg",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\fd763769-2448-4303-bea7-7617221cf9d8.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T07:53:22.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "cb583d10-3b31-420a-bda9-4b1b06ae13d7.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\cb583d10-3b31-420a-bda9-4b1b06ae13d7.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\cb583d10-3b31-420a-bda9-4b1b06ae13d7.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\cb583d10-3b31-420a-bda9-4b1b06ae13d7.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\cb583d10-3b31-420a-bda9-4b1b06ae13d7.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T07:53:43.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "a46e3824-30b5-4de2-851d-2fc74aa7155e.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\a46e3824-30b5-4de2-851d-2fc74aa7155e.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\a46e3824-30b5-4de2-851d-2fc74aa7155e.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\a46e3824-30b5-4de2-851d-2fc74aa7155e.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\a46e3824-30b5-4de2-851d-2fc74aa7155e.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T07:53:35.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "87649850-f467-488f-9339-c17d22e90415.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\87649850-f467-488f-9339-c17d22e90415.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\87649850-f467-488f-9339-c17d22e90415.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\87649850-f467-488f-9339-c17d22e90415.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\87649850-f467-488f-9339-c17d22e90415.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T07:53:31.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "6236b334-fa23-4d40-b9e9-5ca1e1314a90.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\6236b334-fa23-4d40-b9e9-5ca1e1314a90.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\6236b334-fa23-4d40-b9e9-5ca1e1314a90.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\6236b334-fa23-4d40-b9e9-5ca1e1314a90.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\6236b334-fa23-4d40-b9e9-5ca1e1314a90.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T07:53:33.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "99462b88-ebad-4043-9679-d71c54c8e7e5.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\99462b88-ebad-4043-9679-d71c54c8e7e5.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\99462b88-ebad-4043-9679-d71c54c8e7e5.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\99462b88-ebad-4043-9679-d71c54c8e7e5.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\99462b88-ebad-4043-9679-d71c54c8e7e5.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T07:53:30.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "9ab1f521-8de1-4f77-87c8-a8b7beeeb388.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\9ab1f521-8de1-4f77-87c8-a8b7beeeb388.png",
+              "RelativeDocumentMoniker": "ECommerceV1\\wwwroot\\Images\\Produits\\9ab1f521-8de1-4f77-87c8-a8b7beeeb388.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\9ab1f521-8de1-4f77-87c8-a8b7beeeb388.png",
+              "RelativeToolTip": "ECommerceV1\\wwwroot\\Images\\Produits\\9ab1f521-8de1-4f77-87c8-a8b7beeeb388.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-22T07:53:28.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241022065122_initial.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ECommerceV1\\ECommerceV1\\Migrations\\20241022065122_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\ECommerceV1\\ECommerceV1\\Migrations\\20241022065122_initial.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ECommerceV1\\ECommerceV1\\Migrations\\20241022065122_initial.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\ECommerceV1\\ECommerceV1\\Migrations\\20241022065122_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:51:22.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Create.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:44:38.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Index.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:29:15.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Details.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Details.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Details.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAACBjwB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:29:14.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Delete.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Delete.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAACBjwB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:29:15.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Login.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Login.cshtml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAApwDIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:50:37.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Paiement.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Paiement.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Paiement.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Paiement.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Paiement.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:56:14.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Create.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Create.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAACBjwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:29:12.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Edit.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAACBjwDYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T08:44:38.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Delete.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Delete.cshtml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAACBjwDsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:29:15.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Edit.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:29:14.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Edit.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Edit.cshtml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAApwEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:44:38.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Create.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Create.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAACBjwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:29:13.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAlwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:40:00.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:40:01.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAtwEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:40:01.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Details.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Categories\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:40:01.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:40:01.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Categories\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Categories\\Delete.cshtml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAApwDsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:40:01.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:40:01.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Create.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Categories\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwCYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:40:00.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Logout.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:17:01.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T10:35:35.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Logout.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T18:15:33.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Login.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Login.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Login.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:50:02.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Categories\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Categories\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:40:01.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Categories\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Categories\\Details.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Categories\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:40:01.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ECommerceV1Context.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Data\\ECommerceV1Context.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Data\\ECommerceV1Context.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Data\\ECommerceV1Context.cs",
+              "RelativeToolTip": "ECommerceV1\\Data\\ECommerceV1Context.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:44:37.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Details.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:29:14.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Authentification.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Authentification.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Authentification.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Authentification.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Authentification.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:16:03.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Authentification.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Authentification.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Authentification.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Authentification.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Authentification.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:19:54.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Paiement.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Paiement.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Paiement.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Paiement.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Paiement.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:54:52.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Authentification\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Authentification\\Index.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Authentification\\Index.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:29:15.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Details.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Details.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAxwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:44:38.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Details.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Details.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Details.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T08:44:38.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Delete.cshtml.cs",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Delete.cshtml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:44:39.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Produits\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Produits\\Delete.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Produits\\Delete.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T08:44:39.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "ECommerceV1\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\ECommerceV1\\ECommerceV1\\ECommerceV1\\Pages\\Error.cshtml",
+              "RelativeToolTip": "ECommerceV1\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T15:57:14.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20241008085327_InitialCreates.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ECommerceV1\\ECommerceV1\\Migrations\\20241008085327_InitialCreates.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\ECommerceV1\\ECommerceV1\\Migrations\\20241008085327_InitialCreates.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ECommerceV1\\ECommerceV1\\Migrations\\20241008085327_InitialCreates.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\ECommerceV1\\ECommerceV1\\Migrations\\20241008085327_InitialCreates.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:53:27.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

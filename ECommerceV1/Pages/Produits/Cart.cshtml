@@ -1,0 +1,119 @@
+﻿@page
+@model ECommerceV1.Pages.Produits.CartModel
+@{
+    ViewData["Title"] = "Shopping Cart";
+    decimal Total = 0;
+}
+
+<h1>Your Cart</h1>
+
+@if (Model.CartItems.Count == 0)
+{
+    <p>Your cart is empty.</p>
+}
+else
+{
+    <div class="row">
+        @foreach (var item in Model.CartItems)
+        {
+            <div class="col-md-4">
+                <div class="card">
+                    @if (!string.IsNullOrEmpty(item.Produit.ImageUrl))
+                    {
+                        <img src="@Url.Content($"~/{item.Produit.ImageUrl}")" alt="Product Image" class="product-image" />
+                    }
+
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Produit.Nom</h5>
+                        <p class="card-text">@item.Produit.Description</p>
+                        <p class="card-text"><strong>Price:</strong> @item.Produit.Prix DH</p>
+
+                        <form method="post" asp-page-handler="UpdateQuantity">
+                            <input type="hidden" name="produitId" value="@item.ProduitId" />
+                            <label for="quantity-@item.ProduitId">Quantity:</label>
+                            <input type="number" name="quantity" id="quantity-@item.ProduitId" value="@item.Quantity"
+                                   min="1" max="@item.Produit.QuantiteStock" class="form-control quantity-input"
+                                   onchange="this.form.submit()" />
+                        </form>
+
+                        <p class="card-text"><strong>Total Price:</strong> @(item.Quantity * item.Produit.Prix) DH</p>
+                        <p hidden><strong>Subtotal:</strong> @(Total += item.Quantity * item.Produit.Prix) DH</p>
+
+                        <form method="post" asp-page-handler="RemoveFromCart">
+                            <input type="hidden" name="produitId" value="@item.ProduitId" />
+                            <button type="submit" class="btn btn-danger">Remove from Cart</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="checkout">
+        <form method="post" asp-page-handler="Checkout">
+            <button type="submit" class="btn btn-primary">Checkout (@Total DH)</button>
+        </form>
+    </div>
+}
+
+<style>
+    /* Ensure row has flex properties */
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    /* Ensure columns align uniformly */
+    .col-md-4 {
+        flex: 1 1 30%; /* Allows 3 cards per row on medium screens */
+        display: flex;
+        align-items: stretch;
+        max-width: 300px; /* Set a max-width to control card width */
+    }
+
+    /* Card styling */
+    .card {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 100%;
+        height: 100%;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 15px;
+    }
+
+    /* Product image styling */
+    .product-image {
+        width: 100%;
+        height: 200px; /* Fixed height to ensure uniformity */
+        object-fit: cover;
+        border-radius: 8px;
+        margin-bottom: 10px;
+    }
+
+    /* Card body styling */
+    .card-body {
+        flex-grow: 1;
+        text-align: center;
+    }
+
+    /* Quantity input styling */
+    .quantity-input {
+        width: 70px;
+        margin: 5px 0;
+    }
+
+    /* Checkout button styling */
+    .checkout {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    /* Button styling */
+    .btn {
+        width: 100%;
+    }
+</style>
